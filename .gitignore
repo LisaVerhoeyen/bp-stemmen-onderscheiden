@@ -3,3 +3,6 @@
 # audio bestanden niet op git plaatsen
 **audio-fragmenten**
 **output**
+
+# extra files voor simple-diarizer niet op github
+**pretrained_models**
