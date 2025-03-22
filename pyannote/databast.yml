@@ -1,0 +1,14 @@
+Databases:
+  BP: ../audio-fragmenten/audio/audio_to_train/{uri}.wav
+
+Protocols:
+  BP:
+    SpeakerDiarization:
+      VlaamseAudio:
+        train:
+          uri: "../training_database/lists/train.lst"
+        development:
+          uri: "../training_database/lists/development.lst"
+        test:
+          uri: "../training_database/lists/test.lst"
+        
