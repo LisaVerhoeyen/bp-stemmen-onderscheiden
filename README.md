@@ -5,6 +5,7 @@
 ### Pyannote
 * `pip install pyannote.audio`
 * `pip install pydub`
+* `pip install pyannote.database`
 
 ### Simple-diarizer
 * `pip install simple-diarizer`

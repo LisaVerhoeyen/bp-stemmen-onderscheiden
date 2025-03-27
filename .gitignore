@@ -3,6 +3,7 @@
 # audio bestanden niet op git plaatsen
 **audio-fragmenten**
 **output**
+training_database/wavs/**
 
 # extra files voor simple-diarizer niet op github
 **pretrained_models**
