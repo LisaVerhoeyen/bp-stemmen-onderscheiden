@@ -1,5 +1,6 @@
 Databases:
-  BP: ../training_database/wavs/{uri}.wav
+  BP: 
+  - ../training_database/wavs/{uri}.wav
 
 Protocols:
   BP:
@@ -7,15 +8,15 @@ Protocols:
       VlaamseAudio:
         scope: file
         train:
-          uri: "../training_database/lists/train.lst"
-          annotation: "../training_database/rttms/train.rttm"
-          annotated: "../training_database/uems/train.uem"
+          uri: ../training_database/lists/train.lst
+          annotation: ../training_database/rttms/train.rttm
+          annotated: ../training_database/uems/train.uem
         development:
-          uri: "../training_database/lists/development.lst"
-          annotation: "../training_database/rttms/train.rttm"
-          annotated: "../training_database/uems/train.uem"
+          uri: ../training_database/lists/development.lst
+          annotation: ../training_database/rttms/train.rttm
+          annotated: ../training_database/uems/train.uem
         test:
-          uri: "../training_database/lists/test.lst"
-          annotation: "../training_database/rttms/train.rttm"
-          annotated: "../training_database/uems/train.uem"
+          uri: ../training_database/lists/test.lst
+          annotation: ../training_database/rttms/train.rttm
+          annotated: ../training_database/uems/train.uem
         

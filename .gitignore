@@ -8,3 +8,6 @@ pyannote/results/audio/**
 
 # extra files voor simple-diarizer niet op github
 **pretrained_models**
+
+# training related files
+pyannote/lightning_logs**
