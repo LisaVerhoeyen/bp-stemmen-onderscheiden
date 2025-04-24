@@ -11,3 +11,4 @@ pyannote/results/audio/**
 
 # training related files
 pyannote/lightning_logs**
+pyannote/DiarizationErrorRate**
