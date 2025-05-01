@@ -14,3 +14,7 @@
 ## Nodig in .env
 
 * huggingface token
+
+## Andere opmerkingen
+
+De paden in de [config file](./pyannote/pipeline/config.yaml) voor de pipeline zijn hardgecodeerd naar een pad op mijn pc, pas deze aan voor gebruik
