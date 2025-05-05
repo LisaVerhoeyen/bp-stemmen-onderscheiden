@@ -2,7 +2,7 @@ params:
   clustering:
     method: centroid
     min_cluster_size: 15
-    threshold: 0.682043527801252
+    threshold: 0.7146378346971343
   segmentation:
     min_duration_off: 0.0
-    threshold: 0.6000621185955841
+    threshold: 0.6773532730717107
