@@ -7,9 +7,12 @@
 * `pip install pydub`
 * `pip install pyannote.database`
 
-### Simple-diarizer
+### Simple-diarizer (only used in model testing)
 * `pip install simple-diarizer`
 * `pip install speechbrain`
+
+### Extract audio from video
+* `pip install audio_extract`
 
 ## Nodig in .env
 
