@@ -13,6 +13,7 @@
 
 ### Extract audio from video
 * `pip install audio_extract`
+* `pip install natsort`
 
 ## Nodig in .env
 
