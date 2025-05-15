@@ -1,0 +1,22 @@
+Databases:
+  BP: 
+  - ../training_database_v1/wavs/{uri}.wav
+
+Protocols:
+  BP:
+    SpeakerDiarization:
+      VlaamseAudio:
+        scope: file
+        train:
+          uri: ../training_database_v1/lists/train.lst
+          annotation: ../training_database_v1/rttms/train.rttm
+          annotated: ../training_database_v1/uems/train.uem
+        development:
+          uri: ../training_database_v1/lists/development.lst
+          annotation: ../training_database_v1/rttms/development.rttm
+          annotated: ../training_database_v1/uems/development.uem
+        test:
+          uri: ../training_database_v1/lists/test.lst
+          annotation: ../training_database_v1/rttms/test.rttm
+          annotated: ../training_database_v1/uems/test.uem
+        

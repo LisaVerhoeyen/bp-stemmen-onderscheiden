@@ -1,6 +1,6 @@
 Databases:
   BP: 
-  - ../training_database/wavs/{uri}.wav
+    - ../training_database/wavs/{uri}.wav
 
 Protocols:
   BP:
@@ -19,4 +19,3 @@ Protocols:
           uri: ../training_database/lists/test.lst
           annotation: ../training_database/rttms/test.rttm
           annotated: ../training_database/uems/test.uem
-        
