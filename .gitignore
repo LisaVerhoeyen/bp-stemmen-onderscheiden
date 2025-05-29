@@ -15,4 +15,4 @@ pyannote/lightning_logs**
 pyannote/DiarizationErrorRate**
 
 # ruisfilter tests
-ruisfilter_test/*
+ruisfilter_test/audio_preprocessing.py
