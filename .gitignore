@@ -4,7 +4,7 @@
 **audio-fragmenten**
 model_testing/output/pyannote/**
 training_database/wavs/**
-training_database_v1/wavs/**
+training_database*/wavs/**
 pyannote/results/audio/**
 
 # extra files voor simple-diarizer niet op github
