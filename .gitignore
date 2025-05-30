@@ -17,3 +17,9 @@ pyannote/DiarizationErrorRate**
 
 # ruisfilter tests
 ruisfilter_test/audio_preprocessing.py
+
+# uitvoerbaar bestand
+executable/build
+executable/dist
+split_audio.exe
+split_audio.spec
